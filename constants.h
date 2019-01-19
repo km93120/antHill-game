@@ -1,0 +1,14 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define SCENE_WIDTH         1000
+#define SCENE_HEIGHT        1000
+
+#define ANTHILL_POS_X_AXIS (SCENE_WIDTH / 2)
+#define ANTHILL_POS_Y_AXIS (SCENE_HEIGHT / 2)
+
+#define HITPOINTS_MAX_ANTHILL 2500
+#define HITPOINTS_MAX_BOSS 20000
+
+
+#endif // CONSTANTS_H

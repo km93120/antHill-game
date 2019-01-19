@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>aze.png</file>
+        <file>images.jpg</file>
+        <file>frmi.jpg</file>
+        <file>fourmivolante.png</file>
+        <file>enemy.jpg</file>
+        <file>food.jpg</file>
+        <file>fireant.jpg</file>
+        <file>mygale.jpg</file>
+        <file>enemyy.png</file>
+        <file>fireantt.png</file>
+        <file>food.png</file>
+        <file>bruitcigale.mp3</file>
+    </qresource>
+</RCC>
